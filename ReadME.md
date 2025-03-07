@@ -14,3 +14,6 @@ git push
 git log
 git checkout
 git checkout -b feature/test
+git checkout main
+git pull
+git merge main
