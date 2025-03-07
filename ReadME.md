@@ -1,5 +1,3 @@
-Test Branch
-Main Branch
 git init
 ls
 ls -a
@@ -13,13 +11,9 @@ git push -u origin main
 git push
 git log
 git checkout
-hii
 git checkout -b feature/test
 git checkout main
-git pull
+pull request raising
 git merge main
-pull request
-Conflict Changes
-feature branch changes
-finally working my code
-one more try
+checking conflicts
+git pull
