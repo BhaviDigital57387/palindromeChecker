@@ -13,6 +13,7 @@ git push -u origin main
 git push
 git log
 git checkout
+hii
 git checkout -b feature/test
 git checkout main
 git pull
