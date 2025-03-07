@@ -20,5 +20,3 @@ git merge main
 pull request
 Conflict Changes
 feature branch changes
-f branch changes
-new changes
